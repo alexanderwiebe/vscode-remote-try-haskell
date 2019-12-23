@@ -1,0 +1,4 @@
+.stack-work/
+starter-app.cabal
+*~
+dist
